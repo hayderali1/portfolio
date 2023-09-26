@@ -9,7 +9,7 @@
 ⚡️ Styled with Bootstrap v4.3 + Custom SCSS
 ⚡️ Fully Responsive
 ⚡️ Valid HTML5 & CSS3
-⚡️ Optimized with Parcel\
+⚡️ Optimized with Parcel
 ⚡️ Well organized documentation
 
 
