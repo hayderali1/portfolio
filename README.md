@@ -10,6 +10,6 @@
 ⚡️ Fully Responsive
 ⚡️ Valid HTML5 & CSS3
 ⚡️ Optimized with Parcel
-⚡️ Well organized documentation
+⚡️ Well organized style
 
 
