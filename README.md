@@ -2,7 +2,7 @@
 # live link: https://hayder-almamoori.netlify.app/
 
 
-## Features
+## Main Features 
 
 ⚡️ Modern UI Design + Reveal Animations
 ⚡️ One Page Layout
@@ -11,5 +11,4 @@
 ⚡️ Valid HTML5 & CSS3
 ⚡️ Optimized with Parcel
 ⚡️ Well organized style
-
 
