@@ -2,7 +2,7 @@
 # live link: https://hayder-almamoori.netlify.app/
 
 
-## Features highlights
+## Features highlight
 
 ⚡️ Modern UI Design + Reveal Animations
 ⚡️ One Page Layout
