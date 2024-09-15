@@ -1,6 +1,5 @@
 # Welcome to my Portfolio:
-# live link: 
-https://hayder-almamoori.netlify.app/
+# live link: https://hayder-almamoori.netlify.app/
 
 
 ## Features highlight
