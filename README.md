@@ -1,7 +1,6 @@
 # Welcome to my Portfolio:
 # live link: https://hayder-almamoori.netlify.app/
 
-
 ## Features highlight
 ⚡️ Modern UI Design + Reveal Animations
 ⚡️ One Page Layout
